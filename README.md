@@ -33,16 +33,15 @@ The Simon Game is an electronic memory game where players must repeat random seq
 
 ## File Structure
 
-Simon Game/
-├── index.html          # Main HTML file
-├── styles.css         # CSS styling
-├── game.js           # Game logic
-└── sounds/           # Sound effects directory
-    ├── blue.mp3
-    ├── green.mp3
-    ├── red.mp3
-    ├── wrong.mp3
-    └── yellow.mp3
+* index.html - Main HTML file
+* styles.css - CSS styling
+* game.js - Game logic
+* sounds/
+  * blue.mp3
+  * green.mp3
+  * red.mp3
+  * wrong.mp3
+  * yellow.mp3
 
 ## Installation
 
